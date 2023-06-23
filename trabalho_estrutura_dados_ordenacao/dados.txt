@@ -1,0 +1,1010 @@
+Vetor 0:
+Teste 0:
+
+Bolha: 0 segundos
+Insercao: 0.001 segundos
+MergeSort: 0.018 segundos
+QuickSort: 0.001 segundos
+Selection: 1.783 segundos
+ShellSort: 0.002 segundos
+
+
+Teste 0:
+
+Bolha: 0 segundos
+Insercao: 0 segundos
+MergeSort: 0.023 segundos
+QuickSort: 0.001 segundos
+Selection: 1.609 segundos
+ShellSort: 0.002 segundos
+
+
+Teste 0:
+
+Bolha: 0 segundos
+Insercao: 0 segundos
+MergeSort: 0.012 segundos
+QuickSort: 0.001 segundos
+Selection: 1.407 segundos
+ShellSort: 0.001 segundos
+
+
+Teste 0:
+
+Bolha: 0 segundos
+Insercao: 0 segundos
+MergeSort: 0.014 segundos
+QuickSort: 0.001 segundos
+Selection: 1.41 segundos
+ShellSort: 0.002 segundos
+
+
+Teste 0:
+
+Bolha: 0 segundos
+Insercao: 0 segundos
+MergeSort: 0.012 segundos
+QuickSort: 0.001 segundos
+Selection: 1.409 segundos
+ShellSort: 0.003 segundos
+
+
+Teste 0:
+
+Bolha: 0 segundos
+Insercao: 0 segundos
+MergeSort: 0.022 segundos
+QuickSort: 0.001 segundos
+Selection: 2.746 segundos
+ShellSort: 0.001 segundos
+
+
+Teste 0:
+
+Bolha: 0 segundos
+Insercao: 0 segundos
+MergeSort: 0.027 segundos
+QuickSort: 0.003 segundos
+Selection: 2.573 segundos
+ShellSort: 0.001 segundos
+
+
+Teste 0:
+
+Bolha: 0 segundos
+Insercao: 0.001 segundos
+MergeSort: 0.013 segundos
+QuickSort: 0.001 segundos
+Selection: 2.512 segundos
+ShellSort: 0.002 segundos
+
+
+Teste 0:
+
+Bolha: 0.001 segundos
+Insercao: 0 segundos
+MergeSort: 0.015 segundos
+QuickSort: 0.002 segundos
+Selection: 2.381 segundos
+ShellSort: 0.002 segundos
+
+
+Teste 0:
+
+Bolha: 0 segundos
+Insercao: 0 segundos
+MergeSort: 0.014 segundos
+QuickSort: 0.001 segundos
+Selection: 2.454 segundos
+ShellSort: 0.001 segundos
+
+
+Vetor 1:
+Teste 1:
+
+Bolha: 6.87 segundos
+Insercao: 3.991 segundos
+MergeSort: 0.015 segundos
+QuickSort: 0.002 segundos
+Selection: 2.521 segundos
+ShellSort: 0.003 segundos
+
+
+Teste 1:
+
+Bolha: 8.017 segundos
+Insercao: 3.948 segundos
+MergeSort: 0.027 segundos
+QuickSort: 0.001 segundos
+Selection: 2.627 segundos
+ShellSort: 0.003 segundos
+
+
+Teste 1:
+
+Bolha: 7.435 segundos
+Insercao: 3.866 segundos
+MergeSort: 0.024 segundos
+QuickSort: 0.002 segundos
+Selection: 2.568 segundos
+ShellSort: 0.003 segundos
+
+
+Teste 1:
+
+Bolha: 7.576 segundos
+Insercao: 3.947 segundos
+MergeSort: 0.013 segundos
+QuickSort: 0.001 segundos
+Selection: 2.462 segundos
+ShellSort: 0.005 segundos
+
+
+Teste 1:
+
+Bolha: 8.095 segundos
+Insercao: 5.445 segundos
+MergeSort: 0.025 segundos
+QuickSort: 0.002 segundos
+Selection: 2.831 segundos
+ShellSort: 0.005 segundos
+
+
+Teste 1:
+
+Bolha: 7.73 segundos
+Insercao: 3.803 segundos
+MergeSort: 0.03 segundos
+QuickSort: 0.001 segundos
+Selection: 2.716 segundos
+ShellSort: 0.002 segundos
+
+
+Teste 1:
+
+Bolha: 7.357 segundos
+Insercao: 3.955 segundos
+MergeSort: 0.026 segundos
+QuickSort: 0.002 segundos
+Selection: 2.505 segundos
+ShellSort: 0.003 segundos
+
+
+Teste 1:
+
+Bolha: 7.234 segundos
+Insercao: 3.95 segundos
+MergeSort: 0.014 segundos
+QuickSort: 0.001 segundos
+Selection: 2.819 segundos
+ShellSort: 0.004 segundos
+
+
+Teste 1:
+
+Bolha: 7.447 segundos
+Insercao: 4.084 segundos
+MergeSort: 0.031 segundos
+QuickSort: 0.003 segundos
+Selection: 2.72 segundos
+ShellSort: 0.007 segundos
+
+
+Teste 1:
+
+Bolha: 7.325 segundos
+Insercao: 4.047 segundos
+MergeSort: 0.018 segundos
+QuickSort: 0.001 segundos
+Selection: 2.839 segundos
+ShellSort: 0.002 segundos
+
+
+Vetor 2:
+Teste 2:
+
+Bolha: 8.835 segundos
+Insercao: 2.553 segundos
+MergeSort: 0.02 segundos
+QuickSort: 0.006 segundos
+Selection: 2.355 segundos
+ShellSort: 0.018 segundos
+
+
+Teste 2:
+
+Bolha: 8.592 segundos
+Insercao: 2.128 segundos
+MergeSort: 0.043 segundos
+QuickSort: 0.013 segundos
+Selection: 2.278 segundos
+ShellSort: 0.018 segundos
+
+
+Teste 2:
+
+Bolha: 9.301 segundos
+Insercao: 1.996 segundos
+MergeSort: 0.019 segundos
+QuickSort: 0.006 segundos
+Selection: 2.248 segundos
+ShellSort: 0.013 segundos
+
+
+Teste 2:
+
+Bolha: 8.299 segundos
+Insercao: 1.92 segundos
+MergeSort: 0.03 segundos
+QuickSort: 0.014 segundos
+Selection: 2.085 segundos
+ShellSort: 0.009 segundos
+
+
+Teste 2:
+
+Bolha: 8.356 segundos
+Insercao: 2.153 segundos
+MergeSort: 0.02 segundos
+QuickSort: 0.006 segundos
+Selection: 2.103 segundos
+ShellSort: 0.013 segundos
+
+
+Teste 2:
+
+Bolha: 8.544 segundos
+Insercao: 1.879 segundos
+MergeSort: 0.018 segundos
+QuickSort: 0.006 segundos
+Selection: 2.047 segundos
+ShellSort: 0.022 segundos
+
+
+Teste 2:
+
+Bolha: 6.622 segundos
+Insercao: 1.328 segundos
+MergeSort: 0.029 segundos
+QuickSort: 0.005 segundos
+Selection: 1.635 segundos
+ShellSort: 0.008 segundos
+
+
+Teste 2:
+
+Bolha: 5.836 segundos
+Insercao: 1.414 segundos
+MergeSort: 0.015 segundos
+QuickSort: 0.005 segundos
+Selection: 1.552 segundos
+ShellSort: 0.007 segundos
+
+
+Teste 2:
+
+Bolha: 5.901 segundos
+Insercao: 1.365 segundos
+MergeSort: 0.016 segundos
+QuickSort: 0.005 segundos
+Selection: 1.517 segundos
+ShellSort: 0.011 segundos
+
+
+Teste 2:
+
+Bolha: 5.857 segundos
+Insercao: 1.397 segundos
+MergeSort: 0.026 segundos
+QuickSort: 0.005 segundos
+Selection: 1.489 segundos
+ShellSort: 0.01 segundos
+
+
+Vetor 3:
+Teste 3:
+
+Bolha: 5.876 segundos
+Insercao: 1.356 segundos
+MergeSort: 0.015 segundos
+QuickSort: 0.005 segundos
+Selection: 1.446 segundos
+ShellSort: 0.009 segundos
+
+
+Teste 3:
+
+Bolha: 5.96 segundos
+Insercao: 1.374 segundos
+MergeSort: 0.016 segundos
+QuickSort: 0.005 segundos
+Selection: 1.493 segundos
+ShellSort: 0.01 segundos
+
+
+Teste 3:
+
+Bolha: 5.805 segundos
+Insercao: 1.334 segundos
+MergeSort: 0.023 segundos
+QuickSort: 0.006 segundos
+Selection: 1.555 segundos
+ShellSort: 0.011 segundos
+
+
+Teste 3:
+
+Bolha: 6.069 segundos
+Insercao: 1.305 segundos
+MergeSort: 0.013 segundos
+QuickSort: 0.007 segundos
+Selection: 1.521 segundos
+ShellSort: 0.008 segundos
+
+
+Teste 3:
+
+Bolha: 5.792 segundos
+Insercao: 1.015 segundos
+MergeSort: 0.015 segundos
+QuickSort: 0.005 segundos
+Selection: 1.513 segundos
+ShellSort: 0.007 segundos
+
+
+Teste 3:
+
+Bolha: 5.837 segundos
+Insercao: 1.408 segundos
+MergeSort: 0.017 segundos
+QuickSort: 0.005 segundos
+Selection: 1.451 segundos
+ShellSort: 0.012 segundos
+
+
+Teste 3:
+
+Bolha: 5.841 segundos
+Insercao: 1.375 segundos
+MergeSort: 0.019 segundos
+QuickSort: 0.005 segundos
+Selection: 1.509 segundos
+ShellSort: 0.016 segundos
+
+
+Teste 3:
+
+Bolha: 5.917 segundos
+Insercao: 1.319 segundos
+MergeSort: 0.015 segundos
+QuickSort: 0.004 segundos
+Selection: 1.508 segundos
+ShellSort: 0.011 segundos
+
+
+Teste 3:
+
+Bolha: 5.671 segundos
+Insercao: 1.367 segundos
+MergeSort: 0.017 segundos
+QuickSort: 0.013 segundos
+Selection: 1.54 segundos
+ShellSort: 0.013 segundos
+
+
+Teste 3:
+
+Bolha: 5.658 segundos
+Insercao: 1.414 segundos
+MergeSort: 0.014 segundos
+QuickSort: 0.005 segundos
+Selection: 1.525 segundos
+ShellSort: 0.009 segundos
+
+
+Vetor 4:
+Teste 4:
+
+Bolha: 5.921 segundos
+Insercao: 1.095 segundos
+MergeSort: 0.02 segundos
+QuickSort: 0.004 segundos
+Selection: 1.536 segundos
+ShellSort: 0.007 segundos
+
+
+Teste 4:
+
+Bolha: 5.774 segundos
+Insercao: 1.337 segundos
+MergeSort: 0.018 segundos
+QuickSort: 0.005 segundos
+Selection: 1.518 segundos
+ShellSort: 0.01 segundos
+
+
+Teste 4:
+
+Bolha: 5.62 segundos
+Insercao: 1.227 segundos
+MergeSort: 0.019 segundos
+QuickSort: 0.005 segundos
+Selection: 1.477 segundos
+ShellSort: 0.008 segundos
+
+
+Teste 4:
+
+Bolha: 5.663 segundos
+Insercao: 1.302 segundos
+MergeSort: 0.014 segundos
+QuickSort: 0.004 segundos
+Selection: 1.502 segundos
+ShellSort: 0.007 segundos
+
+
+Teste 4:
+
+Bolha: 5.611 segundos
+Insercao: 1.193 segundos
+MergeSort: 0.014 segundos
+QuickSort: 0.005 segundos
+Selection: 1.444 segundos
+ShellSort: 0.012 segundos
+
+
+Teste 4:
+
+Bolha: 5.663 segundos
+Insercao: 1.282 segundos
+MergeSort: 0.016 segundos
+QuickSort: 0.005 segundos
+Selection: 1.502 segundos
+ShellSort: 0.007 segundos
+
+
+Teste 4:
+
+Bolha: 5.615 segundos
+Insercao: 1.367 segundos
+MergeSort: 0.016 segundos
+QuickSort: 0.005 segundos
+Selection: 1.511 segundos
+ShellSort: 0.01 segundos
+
+
+Teste 4:
+
+Bolha: 5.798 segundos
+Insercao: 1.367 segundos
+MergeSort: 0.016 segundos
+QuickSort: 0.005 segundos
+Selection: 1.523 segundos
+ShellSort: 0.008 segundos
+
+
+Teste 4:
+
+Bolha: 5.814 segundos
+Insercao: 1.293 segundos
+MergeSort: 0.029 segundos
+QuickSort: 0.012 segundos
+Selection: 1.569 segundos
+ShellSort: 0.009 segundos
+
+
+Teste 4:
+
+Bolha: 5.795 segundos
+Insercao: 1.165 segundos
+MergeSort: 0.019 segundos
+QuickSort: 0.01 segundos
+Selection: 1.616 segundos
+ShellSort: 0.01 segundos
+
+
+Vetor 5:
+Teste 5:
+
+Bolha: 5.726 segundos
+Insercao: 1.335 segundos
+MergeSort: 0.013 segundos
+QuickSort: 0.004 segundos
+Selection: 1.529 segundos
+ShellSort: 0.009 segundos
+
+
+Teste 5:
+
+Bolha: 5.897 segundos
+Insercao: 1.341 segundos
+MergeSort: 0.014 segundos
+QuickSort: 0.005 segundos
+Selection: 1.521 segundos
+ShellSort: 0.008 segundos
+
+
+Teste 5:
+
+Bolha: 5.82 segundos
+Insercao: 1.214 segundos
+MergeSort: 0.014 segundos
+QuickSort: 0.004 segundos
+Selection: 1.504 segundos
+ShellSort: 0.007 segundos
+
+
+Teste 5:
+
+Bolha: 5.623 segundos
+Insercao: 1.175 segundos
+MergeSort: 0.014 segundos
+QuickSort: 0.005 segundos
+Selection: 1.515 segundos
+ShellSort: 0.007 segundos
+
+
+Teste 5:
+
+Bolha: 5.687 segundos
+Insercao: 2.182 segundos
+MergeSort: 0.02 segundos
+QuickSort: 0.008 segundos
+Selection: 2.276 segundos
+ShellSort: 0.013 segundos
+
+
+Teste 5:
+
+Bolha: 9.027 segundos
+Insercao: 2.648 segundos
+MergeSort: 0.019 segundos
+QuickSort: 0.005 segundos
+Selection: 2.035 segundos
+ShellSort: 0.01 segundos
+
+
+Teste 5:
+
+Bolha: 6.899 segundos
+Insercao: 1.917 segundos
+MergeSort: 0.016 segundos
+QuickSort: 0.005 segundos
+Selection: 1.929 segundos
+ShellSort: 0.012 segundos
+
+
+Teste 5:
+
+Bolha: 7.178 segundos
+Insercao: 2.1 segundos
+MergeSort: 0.017 segundos
+QuickSort: 0.005 segundos
+Selection: 2.202 segundos
+ShellSort: 0.01 segundos
+
+
+Teste 5:
+
+Bolha: 7.451 segundos
+Insercao: 2.049 segundos
+MergeSort: 0.021 segundos
+QuickSort: 0.007 segundos
+Selection: 1.992 segundos
+ShellSort: 0.012 segundos
+
+
+Teste 5:
+
+Bolha: 7.448 segundos
+Insercao: 2.027 segundos
+MergeSort: 0.018 segundos
+QuickSort: 0.005 segundos
+Selection: 2.127 segundos
+ShellSort: 0.012 segundos
+
+
+Vetor 6:
+Teste 6:
+
+Bolha: 7.446 segundos
+Insercao: 1.917 segundos
+MergeSort: 0.026 segundos
+QuickSort: 0.006 segundos
+Selection: 1.864 segundos
+ShellSort: 0.011 segundos
+
+
+Teste 6:
+
+Bolha: 7.5 segundos
+Insercao: 2.07 segundos
+MergeSort: 0.016 segundos
+QuickSort: 0.006 segundos
+Selection: 2.072 segundos
+ShellSort: 0.01 segundos
+
+
+Teste 6:
+
+Bolha: 7.451 segundos
+Insercao: 2.142 segundos
+MergeSort: 0.043 segundos
+QuickSort: 0.006 segundos
+Selection: 2.12 segundos
+ShellSort: 0.013 segundos
+
+
+Teste 6:
+
+Bolha: 7.348 segundos
+Insercao: 2.068 segundos
+MergeSort: 0.027 segundos
+QuickSort: 0.006 segundos
+Selection: 2.039 segundos
+ShellSort: 0.011 segundos
+
+
+Teste 6:
+
+Bolha: 7.427 segundos
+Insercao: 1.99 segundos
+MergeSort: 0.019 segundos
+QuickSort: 0.005 segundos
+Selection: 2.22 segundos
+ShellSort: 0.014 segundos
+
+
+Teste 6:
+
+Bolha: 7.722 segundos
+Insercao: 2.09 segundos
+MergeSort: 0.024 segundos
+QuickSort: 0.006 segundos
+Selection: 2.147 segundos
+ShellSort: 0.009 segundos
+
+
+Teste 6:
+
+Bolha: 7.149 segundos
+Insercao: 1.754 segundos
+MergeSort: 0.024 segundos
+QuickSort: 0.006 segundos
+Selection: 2.145 segundos
+ShellSort: 0.01 segundos
+
+
+Teste 6:
+
+Bolha: 7.23 segundos
+Insercao: 2.007 segundos
+MergeSort: 0.023 segundos
+QuickSort: 0.005 segundos
+Selection: 2.164 segundos
+ShellSort: 0.009 segundos
+
+
+Teste 6:
+
+Bolha: 7.22 segundos
+Insercao: 2.074 segundos
+MergeSort: 0.026 segundos
+QuickSort: 0.006 segundos
+Selection: 2.117 segundos
+ShellSort: 0.013 segundos
+
+
+Teste 6:
+
+Bolha: 7.26 segundos
+Insercao: 1.916 segundos
+MergeSort: 0.023 segundos
+QuickSort: 0.005 segundos
+Selection: 2.08 segundos
+ShellSort: 0.012 segundos
+
+
+Vetor 7:
+Teste 7:
+
+Bolha: 7.394 segundos
+Insercao: 1.977 segundos
+MergeSort: 0.026 segundos
+QuickSort: 0.006 segundos
+Selection: 2.278 segundos
+ShellSort: 0.014 segundos
+
+
+Teste 7:
+
+Bolha: 7.491 segundos
+Insercao: 1.838 segundos
+MergeSort: 0.029 segundos
+QuickSort: 0.006 segundos
+Selection: 2.192 segundos
+ShellSort: 0.011 segundos
+
+
+Teste 7:
+
+Bolha: 7.56 segundos
+Insercao: 1.795 segundos
+MergeSort: 0.025 segundos
+QuickSort: 0.005 segundos
+Selection: 2.153 segundos
+ShellSort: 0.01 segundos
+
+
+Teste 7:
+
+Bolha: 6.004 segundos
+Insercao: 1.318 segundos
+MergeSort: 0.015 segundos
+QuickSort: 0.008 segundos
+Selection: 1.586 segundos
+ShellSort: 0.013 segundos
+
+
+Teste 7:
+
+Bolha: 5.88 segundos
+Insercao: 1.413 segundos
+MergeSort: 0.016 segundos
+QuickSort: 0.011 segundos
+Selection: 1.546 segundos
+ShellSort: 0.01 segundos
+
+
+Teste 7:
+
+Bolha: 5.963 segundos
+Insercao: 1.318 segundos
+MergeSort: 0.014 segundos
+QuickSort: 0.004 segundos
+Selection: 1.612 segundos
+ShellSort: 0.007 segundos
+
+
+Teste 7:
+
+Bolha: 6.124 segundos
+Insercao: 1.338 segundos
+MergeSort: 0.016 segundos
+QuickSort: 0.005 segundos
+Selection: 1.555 segundos
+ShellSort: 0.007 segundos
+
+
+Teste 7:
+
+Bolha: 8.412 segundos
+Insercao: 1.863 segundos
+MergeSort: 0.022 segundos
+QuickSort: 0.005 segundos
+Selection: 2.321 segundos
+ShellSort: 0.011 segundos
+
+
+Teste 7:
+
+Bolha: 9.26 segundos
+Insercao: 1.931 segundos
+MergeSort: 0.018 segundos
+QuickSort: 0.006 segundos
+Selection: 2.456 segundos
+ShellSort: 0.008 segundos
+
+
+Teste 7:
+
+Bolha: 8.859 segundos
+Insercao: 1.993 segundos
+MergeSort: 0.038 segundos
+QuickSort: 0.01 segundos
+Selection: 2.287 segundos
+ShellSort: 0.013 segundos
+
+
+Vetor 8:
+Teste 8:
+
+Bolha: 8.599 segundos
+Insercao: 1.854 segundos
+MergeSort: 0.019 segundos
+QuickSort: 0.006 segundos
+Selection: 2.557 segundos
+ShellSort: 0.017 segundos
+
+
+Teste 8:
+
+Bolha: 8.833 segundos
+Insercao: 1.706 segundos
+MergeSort: 0.032 segundos
+QuickSort: 0.012 segundos
+Selection: 2.381 segundos
+ShellSort: 0.013 segundos
+
+
+Teste 8:
+
+Bolha: 8.582 segundos
+Insercao: 1.971 segundos
+MergeSort: 0.028 segundos
+QuickSort: 0.006 segundos
+Selection: 2.338 segundos
+ShellSort: 0.009 segundos
+
+
+Teste 8:
+
+Bolha: 8.678 segundos
+Insercao: 2.051 segundos
+MergeSort: 0.025 segundos
+QuickSort: 0.013 segundos
+Selection: 2.591 segundos
+ShellSort: 0.022 segundos
+
+
+Teste 8:
+
+Bolha: 8.284 segundos
+Insercao: 2.027 segundos
+MergeSort: 0.04 segundos
+QuickSort: 0.008 segundos
+Selection: 2.245 segundos
+ShellSort: 0.011 segundos
+
+
+Teste 8:
+
+Bolha: 9.425 segundos
+Insercao: 2.085 segundos
+MergeSort: 0.019 segundos
+QuickSort: 0.008 segundos
+Selection: 2.493 segundos
+ShellSort: 0.013 segundos
+
+
+Teste 8:
+
+Bolha: 8.655 segundos
+Insercao: 1.885 segundos
+MergeSort: 0.017 segundos
+QuickSort: 0.005 segundos
+Selection: 2.167 segundos
+ShellSort: 0.027 segundos
+
+
+Teste 8:
+
+Bolha: 8.473 segundos
+Insercao: 2.112 segundos
+MergeSort: 0.03 segundos
+QuickSort: 0.013 segundos
+Selection: 2.616 segundos
+ShellSort: 0.02 segundos
+
+
+Teste 8:
+
+Bolha: 8.786 segundos
+Insercao: 2.087 segundos
+MergeSort: 0.023 segundos
+QuickSort: 0.011 segundos
+Selection: 2.092 segundos
+ShellSort: 0.012 segundos
+
+
+Teste 8:
+
+Bolha: 8.634 segundos
+Insercao: 1.894 segundos
+MergeSort: 0.026 segundos
+QuickSort: 0.01 segundos
+Selection: 2.462 segundos
+ShellSort: 0.011 segundos
+
+
+Vetor 9:
+Teste 9:
+
+Bolha: 9.043 segundos
+Insercao: 2.031 segundos
+MergeSort: 0.038 segundos
+QuickSort: 0.011 segundos
+Selection: 2.329 segundos
+ShellSort: 0.021 segundos
+
+
+Teste 9:
+
+Bolha: 8.997 segundos
+Insercao: 2.083 segundos
+MergeSort: 0.022 segundos
+QuickSort: 0.013 segundos
+Selection: 2.368 segundos
+ShellSort: 0.015 segundos
+
+
+Teste 9:
+
+Bolha: 8.799 segundos
+Insercao: 2.029 segundos
+MergeSort: 0.018 segundos
+QuickSort: 0.01 segundos
+Selection: 2.277 segundos
+ShellSort: 0.014 segundos
+
+
+Teste 9:
+
+Bolha: 9.028 segundos
+Insercao: 1.959 segundos
+MergeSort: 0.034 segundos
+QuickSort: 0.006 segundos
+Selection: 2.057 segundos
+ShellSort: 0.011 segundos
+
+
+Teste 9:
+
+Bolha: 8.71 segundos
+Insercao: 1.908 segundos
+MergeSort: 0.02 segundos
+QuickSort: 0.006 segundos
+Selection: 2.128 segundos
+ShellSort: 0.018 segundos
+
+
+Teste 9:
+
+Bolha: 8.026 segundos
+Insercao: 2.019 segundos
+MergeSort: 0.026 segundos
+QuickSort: 0.009 segundos
+Selection: 2.483 segundos
+ShellSort: 0.018 segundos
+
+
+Teste 9:
+
+Bolha: 8.581 segundos
+Insercao: 1.936 segundos
+MergeSort: 0.03 segundos
+QuickSort: 0.013 segundos
+Selection: 2.374 segundos
+ShellSort: 0.017 segundos
+
+
+Teste 9:
+
+Bolha: 9.11 segundos
+Insercao: 1.887 segundos
+MergeSort: 0.032 segundos
+QuickSort: 0.006 segundos
+Selection: 2.279 segundos
+ShellSort: 0.023 segundos
+
+
+Teste 9:
+
+Bolha: 8.533 segundos
+Insercao: 1.856 segundos
+MergeSort: 0.039 segundos
+QuickSort: 0.008 segundos
+Selection: 2.212 segundos
+ShellSort: 0.024 segundos
+
+
+Teste 9:
+
+Bolha: 8.361 segundos
+Insercao: 1.852 segundos
+MergeSort: 0.039 segundos
+QuickSort: 0.008 segundos
+Selection: 2.245 segundos
+ShellSort: 0.014 segundos
+
+
