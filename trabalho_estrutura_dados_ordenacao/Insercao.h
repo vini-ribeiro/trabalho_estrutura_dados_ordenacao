@@ -6,8 +6,7 @@
 
 using namespace std;
 
-template <typename T>
-void insercao(T* vetor, const int TAM)
+void insercao(int* vetor, const int TAM)
 {
     int chave, i;
     for (int j = 1; j < TAM; j++) {
